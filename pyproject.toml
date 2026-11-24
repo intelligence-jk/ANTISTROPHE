@@ -1,0 +1,10 @@
+[project]
+name = "inverse-visualiser"
+version = "0.1.0"
+description = "Inverse function finder and checker. Standard library only."
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
