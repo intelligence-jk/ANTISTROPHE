@@ -22,6 +22,10 @@ Steps:
   6. y = a/c = 3 is never reached by f (it would need b*c = a*d), so the range of f is y != 3.
   7. Domain of f^-1 = range of f: x != 3. Check: the denominator of f^-1 is zero exactly at x = 3.
 Check f(f^-1(x)) = x on 9 points: all exact
+  x = -3: f(f^-1(x)) = -3
+  x = -2: f(f^-1(x)) = -2
+  x = -1: f(f^-1(x)) = -1
+  x = 0: f(f^-1(x)) = 0
 ```
 
 Other forms: `python -m inverse_visualiser linear 2 -3` and `python -m inverse_visualiser power 3`. Coefficients can be fractions such as 1/2.
