@@ -1,4 +1,6 @@
-# inverse-visualiser
+# MIRROR: Maps, Inverses, Reflections, Ranges, Outputs, Relations
+
+Formerly `inverse-visualiser`.
 
 Inverse function finder and checker: swap and solve, state the domain of the inverse, and prove it with exact fractions.
 
