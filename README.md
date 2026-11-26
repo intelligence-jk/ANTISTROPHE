@@ -1,4 +1,4 @@
-# MIRROR: Maps, Inverses, Reflections, Ranges, Outputs, Relations
+# ANTISTROPHE: the Greek choir stanza that turns back and answers the first, as an inverse answers its function
 
 Formerly `inverse-visualiser`.
 
